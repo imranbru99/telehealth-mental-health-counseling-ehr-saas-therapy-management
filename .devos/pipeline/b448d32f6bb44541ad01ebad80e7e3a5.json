@@ -1,0 +1,43 @@
+{
+  "pipeline_id": "b448d32f6bb44541ad01ebad80e7e3a5",
+  "status": "completed",
+  "project_name": "Mental Health and Counseling Booking",
+  "category": "Mental Healthcare Practice Management, Counseling Appointment Booking, Therapy Session Management and Clinical Documentation SaaS",
+  "timestamp": "2026-11-05T00:36:00+06:00",
+  "developer": {
+    "name": "Imran Ahmed",
+    "email": "me@imrandev.bd",
+    "website": "https://imrandev.bd"
+  },
+  "technology_stack": {
+    "php": "^8.3",
+    "laravel": "^12.0",
+    "filament": "^3.2",
+    "tailwindcss": "^4.0",
+    "alpinejs": "^3.14",
+    "sanctum": "^4.3",
+    "dompdf": "^3.1"
+  },
+  "integrated_packages": [
+    "imrandevbd/drutogoti",
+    "imrandevbd/laravel-admin-panel",
+    "imrandevbd/laravel-ai-catalog",
+    "imrandevbd/laravel-ai-hub",
+    "imrandevbd/laravel-attendance-hub",
+    "imrandevbd/laravel-unicode-pdf",
+    "imrandevbd/laravel-universal-slug"
+  ],
+  "modules_count": 26,
+  "roles_count": 10,
+  "demo_tenant": {
+    "name": "Serenity Mental Wellness Center",
+    "slug": "serenity-wellness",
+    "subdomain": "serenity"
+  },
+  "tests": {
+    "total": 28,
+    "passed": 28,
+    "failed": 0
+  },
+  "assets_built": true
+}
